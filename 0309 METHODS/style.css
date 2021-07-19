@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: white;
+}
+
+/*#example {
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    font-family: 'VT323', monospace;
+}*/
+
+h4 {
+    margin-left: 10%;
+    margin-right: 10%;
+    color: goldenrod;
+}
+
+h1 {
+    margin-left: 10%;
+    margin-right: 10%;
+    color: goldenrod;
+}
+
+#infoDiv {
+    background-color:goldenrod;
+    margin-left: 20%;
+    margin-top: 3%;
+    margin-right: 20%;
+    margin-bottom: 3%;
+    padding-left: 5%;
+    padding-top: 1px;
+    padding-right: 5%;
+    padding-bottom: 1px;
+    color: black;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#howToDiv {
+    background-color:goldenrod;
+    margin-left: 20%;
+    margin-top: 3%;
+    margin-right: 20%;
+    margin-bottom: 3%;
+    padding-left: 5%;
+    padding-top: 1px;
+    padding-right: 5%;
+    padding-bottom: 1px;
+    color: black;  
+    font-family: 'Yanone Kaffeesatz', sans-serif;  
+}
